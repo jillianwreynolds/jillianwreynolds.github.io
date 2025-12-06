@@ -1,5 +1,7 @@
 ---
 title: "Research"
+lightbox: 
+  desc-position: top
 ---
 
 My current research interests are:
@@ -14,6 +16,12 @@ My current research interests are:
 
 -   California politics
 
-For a better idea of what I have been working on, see [Papers](papers.qmd)
+::: {layout-ncol=1}
 
-![](state-climate-policies.png){fig-alt="A bar graph showing the number of partially enacted and enacted climate policies in each state"}
+![Climate Policies by State](state-climate-policies.png){group="figures"}{fig-alt="A bar graph showing the number of partially enacted and enacted climate policies in each state"}
+
+![Mean Ideology Scores](ideology-meanwt.png){group="figures"}{fig-alt="A choropleth map of the US showing the weighted mean ideology for each state."}
+
+![Mean Populism Scores](populism-meanwt.png){group="figures"}{fig-alt="A choropleth map of the US for weighted mean populism scores"}
+
+:::
