@@ -1,0 +1,22 @@
+---
+echo: false
+message: false
+warning: false
+---
+
+I am currently a second-year research master student in the Modern History and International Relations program at University of Groningen, Netherlands.
+
+I graduated from 
+
+```{r}
+
+packages <- c("tidyverse")
+
+installed <- packages %in% installed.packages()[, "Package"]
+if (any(!installed)) {
+  install.packages(packages[!installed])
+}
+
+purrr::walk(packages, library, character.only = TRUE)
+
+```
