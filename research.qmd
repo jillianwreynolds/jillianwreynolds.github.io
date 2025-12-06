@@ -1,9 +1,13 @@
 ---
 title: "Research"
 lightbox: true
+format: 
+  html: 
+    grid: 
+      margin-width: 550px
 ---
 
-I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a  (clear) relationship between affective polarization and turnout. I theorize that civic duty may help explain the relationship by acting as a mediator.
+I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. I theorize that civic duty may help explain the relationship by acting as a mediator.
 
 My research interests include:
 
@@ -18,5 +22,3 @@ My research interests include:
 -   California politics
 
 ![Climate Policies by State](state-climate-policies.png)
-
-![State Means for Left-Right Ideology](ideology-meanwt.png)
