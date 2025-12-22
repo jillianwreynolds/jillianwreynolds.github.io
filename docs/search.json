@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
     "section": "",
-    "text": "MA at University of Groningen\nAffective Polarization and Its Measurement in the United States\nSpring 2025\nUrban-Rural News Media Attitudes in the United States\nSpring 2025\nClimate Attitudes and State Climate Policies in the United States\nSpring 2025\nWho Votes for Trump? — A Research Outline\nFall 2024\nGeographic Variation of Populist Attitudes in the United States\nFall 2024\nPopulist Attitudes in the United States\nFall 2024\nPerforming Populism: Approaches to Populism as a Political Style\nFall 2024\nQuantifying and Qualifying Contemporary Populist Support\nFall 2024\n\n\nBA at UC San Diego\nHere is a list of some of the papers I wrote:\nUS Foreign Policy: Human Security as National Security\nSpring 2023\nTo Legislate Hate: The Nuremberg Laws of 1935\nWinter 2023\nThe Ethics of Vaccine Mandates for COVID-19\nSpring 2022\nEuropean Social Model: Healthcare\nSpring 2022\nThe Metamorphosis of Warfare During the US Civil War\nFall 2022\nTortured Logic: Why the US Should Never Use Enhanced Interrogation\nFall 2021\nDuplicity and Discrimination in Mississippi’s First Black Code\nFall 2020\nPost-Plague Labor Laws Suppress the English Poor\nSpring 2020"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. I theorize that civic duty may help explain the relationship by acting as a mediator.\nMy research interests include:\n\nAffective polarization, also ideological and geographic polarization\nPublic opinion\nPolitical behavior\nState comparative politics\nCalifornia politics\n\n\n\n\nClimate Policies by State"
+    "text": "Some of my non-research related interest include:\n\nEuropean history\nSharks\nPolice and legal procedurals\nCalifornia law"
   },
   {
     "objectID": "index.html",
@@ -25,7 +18,7 @@
     "href": "index.html#statistical-programming",
     "title": "Jillian Reynolds",
     "section": "Statistical Programming",
-    "text": "Statistical Programming\n\nR\nQuarto\nTidyverse\nStatistical data analysis\nData visualization with ggplot2"
+    "text": "Statistical Programming\n\nR\nQuarto\nTidyverse\nStatistical data analysis (with complex survey data)\nData visualization with ggplot2"
   },
   {
     "objectID": "index.html#languages",
@@ -39,6 +32,27 @@
     "href": "index.html#other",
     "title": "Jillian Reynolds",
     "section": "Other",
-    "text": "Other\n\nBraille\n3-ring binder organization"
+    "text": "Other\n\nBraille\nPhysical/digital file organization"
+  },
+  {
+    "objectID": "index.html#learning",
+    "href": "index.html#learning",
+    "title": "Jillian Reynolds",
+    "section": "Learning",
+    "text": "Learning\n\nSurvey data analysis methods\nLaTeX and BibTeX"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. I theorize that civic duty may help explain the relationship by acting as a mediator.\nMy next research project will look at affective polarization, civic duty, (preference for) straight/split ticket voting, and vote choice.\nMy research interests include:\n\nAffective polarization, also ideological and geographic polarization\nPublic opinion\nPolitical behavior\nState comparative politics\nCalifornia politics\n\n\n\n\nClimate Policies by State. Data from the State Climate Policy Dashboard (climatepolicydashboard.org)."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "MA at University of Groningen\nAffective Polarization and Its Measurement in the United States\nSpring 2025\nUrban-Rural News Media Attitudes in the United States\nSpring 2025\nClimate Attitudes and State Climate Policies in the United States\nSpring 2025\nWho Votes for Trump? — A Research Outline\nFall 2024\nGeographic Variation of Populist Attitudes in the United States\nFall 2024\nPopulist Attitudes in the United States\nFall 2024\nPerforming Populism: Approaches to Populism as a Political Style\nFall 2024\nQuantifying and Qualifying Contemporary Populist Support\nFall 2024\n\n\nBA at UC San Diego\nSelected titles:\nGermany in the Post-Cold War Era: Soft Power vs. Hard Power\nSpring 2023\nUS Foreign Policy: Human Security as National Security\nSpring 2023\nTo Legislate Hate: The Nuremberg Laws of 1935\nWinter 2023\nThe Ethics of Vaccine Mandates for COVID-19\nSpring 2022\nEuropean Social Model: Healthcare\nSpring 2022\nThe Metamorphosis of Warfare During the US Civil War\nFall 2022\nTortured Logic: Why the US Should Never Use Enhanced Interrogation\nFall 2021\nDuplicity and Discrimination in Mississippi’s First Black Code\nFall 2020\nPost-Plague Labor Laws Suppress the English Poor\nSpring 2020"
   }
 ]
