@@ -6,16 +6,27 @@ date: 12/22/25
 categories:
   - ADHD
   - Technology
-
 ---
 
-Growing up in Silicon Valley, Apple is everywhere. After owning various Apple products for almost 14 years and experimenting with the ecosystem and its capabilities, I have learned a variety of strategies that help me manage my ADHD. Three essentials are widgets, Siri, and Apple HomeKit.
+Growing up in Silicon Valley, Apple is everywhere. After owning various Apple products for almost 14 years and experimenting with the ecosystem and its capabilities, I have learned a variety of strategies that help me manage my ADHD. Before diving into these, I would like to preface this post with the observation that having multiple Apple products is part of why I find Apple tools so helpful. iCloud makes syncing with my phone, watch, iPad, and laptop incredibly easy. When I set a reminder for a Calendar event, I will receive a notification not only on my phone, but also on my watch, iPad, and laptop. It's okay if I don't hear my phone remind me of an appointment because I can hear a notification from my watch and feel the notification on my wrist. If I don't hear or feel my watch, then perhaps I'm hyperfocused on something on my iPad or laptop. Multiple devices receiving the same notification means there are backups if the alert from one device goes overlooked.
+
+Three essential tools of the Apple ecosystem that I have used to great benefit are widgets, Siri, and Apple HomeKit.
 
 # Widgets
 
+## Apple Watch Complications
+
+When I got my first Apple Watch, my primary watch face was Activity Digital<!--# Insert photo -->. It was January 2021, and COVID-19 was rather conducive to a sedentary lifestyle. I like data and numbers, so the information tracked on my Apple Watch would help motivate me to get up and move. However, Activity Digital was soon superseded in favor of another watch face, Modular <!--# Insert photo -->.
+
+While attending UCSD, my calendar noted lectures, discussions, office hours, and even exams. Event alerts are useful, but there were simply too many events on my calendar. Modular allowed my to see my schedule at a glance, and tapping the complication opened my Calendar if I needed further information.
+
+## On Lock Screens
+
+## On Home Screens
+
+## In Today View
 
 # Siri
-
 
 # Apple HomeKit
 
