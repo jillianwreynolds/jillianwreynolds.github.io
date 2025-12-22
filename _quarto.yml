@@ -13,12 +13,12 @@ website:
         href: research.qmd
       - text: "Papers"
         href: papers.qmd
-      - text: "Experiences"
-        href: experiences.qmd
-      - text: "Skills"
-        href: skills.qmd
+      # - text: "Experiences"
+      #   href: experiences.qmd
+      # - text: "Skills"
+      #   href: skills.qmd
       - text: "Interests"
-      - href: interests.qmd
+        href: interests.qmd
     search: false
 
 format:

@@ -16,13 +16,13 @@ about:
 
 # Bio
 
-I am currently a second-year research master student in the Modern History and International Relations program at University of Groningen, Netherlands. A research master is a two-year, research-focused program for students interested in pursuing a PhD or career in a research field.
+I am currently a second-year research master student in the Modern History and International Relations program at the University of Groningen in the Netherlands. A research master is a two-year, research-focused program for students interested in pursuing a PhD or career in research.
 
 ------------------------------------------------------------------------
 
-After completing the IB Diploma Programme and graduating high school, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
+After graduating high school and completing the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
-After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course R for Data Analytics certificate program through UC San Diego Division of Extended Studies.
+After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course [R for Data Analytics](https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics){.plain-link title="Go to https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics"} certificate program through UC San Diego Division of Extended Studies.
 
 # Education
 
@@ -99,7 +99,7 @@ The summer before my senior year of high school, I went on a trip with two other
 
 -   Physical/digital file organization
 
-## Learning
+## Current Learning
 
 -   Survey data analysis methods
 
