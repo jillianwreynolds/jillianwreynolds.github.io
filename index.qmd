@@ -5,6 +5,7 @@ message: false
 warning: false
 about: 
   template: trestles
+  id: trestles-heading
   image: JWR-tree.jpeg
   image-shape: round
   links: 
@@ -19,6 +20,8 @@ format:
     geometry: margin=1in
 ---
 
+::: {#trestles-heading}
+
 ::: {.content-hidden when-format="pdf"}
 # Bio
 
@@ -29,6 +32,8 @@ I am currently a second-year research master student in the Modern History and I
 After graduating high school and completing the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
 After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course [R for Data Analytics](https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics){.plain-link title="Go to https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics"} certificate program through UC San Diego Division of Extended Studies.
+
+:::
 
 :::
 
