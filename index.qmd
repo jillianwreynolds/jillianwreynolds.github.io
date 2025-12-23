@@ -14,7 +14,8 @@ about:
       text: GitHub
 format: 
   html: default
-  pdf: default
+  pdf: 
+    css: styles.css
 ---
 
 ::: {.content-hidden when-format="pdf"}
@@ -27,12 +28,16 @@ I am currently a second-year research master student in the Modern History and I
 After graduating high school and completing the IB Diploma Programme, I attended UC San Diego in La Jolla, California. At UCSD, I majored in Political Science/International Relations and earned minors in History and Global Health.
 
 After earning my BA in 2023, I spent a year working as a paraeducator for a local public school district while completing the four-course [R for Data Analytics](https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics){.plain-link title="Go to https://extendedstudies.ucsd.edu/certificates/r-for-data-analytics"} certificate program through UC San Diego Division of Extended Studies.
+
 :::
 
 ::: {.content-visible when-format="pdf"}
-jillianwreynolds\@icloud.com
 
-jillianwreynolds.github.io
+\begin{center}
+jillianwreynolds@icloud.com \\
+\url{https://jillianwreynolds.github.io}
+\end{center}
+
 :::
 
 # Education
@@ -88,13 +93,11 @@ The summer before my senior year of high school, I went on a trip with two other
 
 # Skills
 
-## Certificates
-
-R for Data Analytics. UC San Diego Division of Extended Studies, La Jolla, CA — June 2024
-
 ## Statistical Programming
 
 -   R
+
+    -   Certificate in R for Data Analytics, UC San Diego Division of Extended Studies, La Jolla, CA — June 2024
 
 -   Quarto
 
