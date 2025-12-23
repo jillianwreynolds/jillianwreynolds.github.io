@@ -16,6 +16,22 @@ about:
 format: 
   html: default
   pdf: 
+    header-includes:
+      - '\usepackage{fancyhdr}'
+      - '\usepackage{datetime}'
+      - '\pagestyle{fancy}'
+      - '\fancyhf{}'
+      - '\newdateformat{myformat}{\monthname~\THEDAY,~\THEYEAR
+}'
+      - '\fancyfootalign{0.5in}'
+      - '\fancyfoot[C]{\thepage}'
+      - '\fancyfoot[R]{\myformat\today}'
+      - '\fancypagestyle{firstpage}{%
+          \fancyhf{}
+          \fancyfoot[L]{} % left empty
+          \fancyfoot[C]{\myformat\today}
+          \fancyfoot[R]{\thepage}
+        }'
     title: ""
     geometry: margin=1in
 ---
@@ -40,6 +56,7 @@ After earning my BA in 2023, I spent a year working as a paraeducator for a loca
 ::: {.content-visible when-format="pdf"}
 
 \begin{center}
+\thispagestyle{firstpage}
 {\Large\bfseries Jillian W. Reynolds} \\
 \vspace{0.3em}
 jillianwreynolds\@icloud.com \\
@@ -57,6 +74,8 @@ MA in Modern History and International Relations \| Sep. 2024 - present
 **University of California, San Diego** \| San Diego, CA
 
 BA in Political Science/International Relations \| Sep. 2019 - June 2023
+
+Provost Honors: Spring 2020, Fall 2021, Winter 2021, Spring 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
 
 # Experiences
 
