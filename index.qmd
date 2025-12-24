@@ -24,16 +24,17 @@ format:
       - '\newdateformat{myformat}{\monthname~\THEDAY,~\THEYEAR
 }'
       - '\fancyfootalign{0.5in}'
+      - '\fancyfoot[L]{J.W. Reynolds}'
       - '\fancyfoot[C]{\thepage}'
       - '\fancyfoot[R]{\myformat\today}'
-      - '\fancypagestyle{firstpage}{%
+      - '\fancypagestyle{firstpage}{
           \fancyhf{}
-          \fancyfoot[L]{} % left empty
-          \fancyfoot[C]{\myformat\today}
-          \fancyfoot[R]{\thepage}
+          \fancyfoot[C]{\thepage}
+          \fancyfoot[R]{\myformat\today}
         }'
     title: ""
     geometry: margin=1in
+    output-file: "Reynolds-Jillian_CV.pdf"
 ---
 
 ::: {#trestles-heading}
