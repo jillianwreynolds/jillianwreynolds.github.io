@@ -142,4 +142,6 @@ The summer before my senior year of high school, I went on a trip with two other
 
 -   Survey data analysis methods
 
--   LaTeX and BibTeX
+-   LaTeX (and BibTeX)
+
+-   reveal.js html presentations
