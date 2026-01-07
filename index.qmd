@@ -19,6 +19,7 @@ format:
     header-includes:
       - '\usepackage{fancyhdr}'
       - '\usepackage{datetime}'
+      - '\usepackage{hyperref}'
       - '\pagestyle{fancy}'
       - '\fancyhf{}'
       - '\newdateformat{myformat}{\monthname~\THEDAY,~\THEYEAR
@@ -60,8 +61,8 @@ After earning my BA in 2023, I spent a year working as a paraeducator for a loca
 \thispagestyle{firstpage}
 {\Large\bfseries Jillian W. Reynolds} \\
 \vspace{0.3em}
-jillianwreynolds\@icloud.com \\
-jillianwreynolds.github.io
+\href{mailto:jillianwreynolds@icloud.com}{jillianwreynolds@icloud.com} \\
+\href{jillianwreynolds.github.io}{jillianwreynolds.github.io}
 \end{center}
 
 :::
