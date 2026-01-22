@@ -8,7 +8,7 @@ categories:
   - Technology
 ---
 
-Growing up in Silicon Valley, Apple is everywhere. After owning various Apple products for almost 14 years and experimenting with the ecosystem and its capabilities, I have learned a variety of strategies that help me manage my ADHD. Before diving into these, I would like to preface this post with the observation that having multiple Apple products is part of why I find Apple tools so helpful. iCloud makes syncing with my phone, watch, iPad, and laptop incredibly easy. When I set a reminder for a Calendar event, I will receive a notification not only on my phone, but also on my watch, iPad, and laptop. It's okay if I don't hear my phone remind me of an appointment because I can hear a notification from my watch and feel the notification on my wrist. If I don't hear or feel my watch, then perhaps I'm hyperfocused on something on my iPad or laptop. Multiple devices receiving the same notification means there are backups if the alert from one device goes overlooked.
+Growing up in Silicon Valley, Apple was everywhere. After owning various Apple products for almost 14 years and experimenting with the ecosystem and its capabilities, I have learned a variety of strategies that help me manage my ADHD. Before diving into these, I would like to preface this post with the observation that having multiple Apple products is part of why I find Apple tools so helpful. iCloud makes syncing with my phone, watch, iPad, and laptop incredibly easy. When I set a reminder for a Calendar event, I will receive a notification not only on my phone, but also on my watch, iPad, and laptop. It's okay if I don't hear my phone remind me of an appointment because I can hear a notification from my watch and feel the notification on my wrist. If I don't hear or feel my watch, then perhaps I'm hyperfocused on something on my iPad or laptop. Multiple devices receiving the same notification means there are backups if the alert from one device goes overlooked.
 
 Three essential tools of the Apple ecosystem that I have used to great benefit are widgets, Siri, and Apple HomeKit.
 
@@ -28,6 +28,33 @@ While attending UCSD, my calendar noted lectures, discussions, office hours, and
 
 # Siri
 
+I use Siri for getting information hands-free. For example, I'll ask Siri about the weather while I'm still lying in bed trying to wake up. When I'm getting ready to leave the house, I'll ask for the time to make sure I'm not running late. If I need a timer, I'll ask Siri; I almost never need to open my Clock app and set a timer manually. I even ask Siri to send text messages.
+
+Here are some examples of things I ask Siri:
+
+Weather
+
+- *Weather?*
+- *What's the temperature feel like?*
+- *Is it going to rain/snow today?*
+
+Time
+
+- *Time*
+- Timers: e.g., *five minutes*
+
+Messages
+
+- *Tell Mom, "I'll be home in an hour or so. When are you free to talk?"*
+
 # Apple HomeKit
 
+## Alarms
+
+## Lights
+
 I use smart (dimmer) switches or smart plugs so that I can ask Siri to turn on or turn off my lights. I set automations for turning my lights off in case I accidentally fall asleep before turning them off myself. Currently, the automations are set for every hour, on the hour. Since I also have difficulty noticing or feeling time passing, I find that the lights turning off every hour (even if I turn them back on again) helps me mark the passing of time.
+
+## Other
+
+I get very cold very easily, so I love using a space heater to make my room nice and toasty. Generally, I am especially mindful with heat-generating appliances and I double check that I have turned things off when I am done using them. Whereas I can only check again that I have turned off the stove when I am done cooking, the space heater is an easy opportunity for a smart-plug safeguard. I can set the plug to turn off when I leave home. With the space heater plugged into the smart plug, which is plugged into the outlet, the heater will turn off when I leave home even if I forgot to turn it off manually. Even when I do remember to turn the heater off, turning off the smart plug c
