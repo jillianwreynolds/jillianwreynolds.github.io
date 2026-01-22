@@ -19,6 +19,8 @@ website:
       #   href: skills.qmd
       - text: "Interests"
         href: interests.qmd
+      # - text: "Blog"
+      #   href: blog.qmd
     search: false
 
 format:
@@ -28,6 +30,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
