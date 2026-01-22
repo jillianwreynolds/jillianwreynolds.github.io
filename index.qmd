@@ -112,37 +112,21 @@ The summer before my senior year of high school, I went on a trip with two other
 ## Statistical Programming
 
 -   R
-
     -   Certificate in R for Data Analytics, UC San Diego Division of Extended Studies, La Jolla, CA — June 2024
-
 -   Quarto
-
 -   Tidyverse
-
 -   Statistical data analysis (with complex survey data)
-
 -   Data visualization with ggplot2
+
+**Learning/Practicing**
+
+-   Survey data analysis methods
+-   Development of **jwR** package as a collection of personal functions for private use
+-   LaTeX (and BibTeX)
+-   reveal.js html presentations
+-   Graphviz diagrams with `{dot}`
 
 ## Languages
 
 -   Spanish
-
 -   German
-
-## Other
-
--   Braille
-
-::: {.content-hidden when-format="pdf"}
-
--   Physical/digital file organization
-
-:::
-
-## Current Learning
-
--   Survey data analysis methods
-
--   LaTeX (and BibTeX)
-
--   reveal.js html presentations
