@@ -23,6 +23,9 @@ website:
       #   href: blog.qmd
     search: false
 
+fig-cap-location: top
+fig-dpi: 400
+
 format:
   html:
     theme:
