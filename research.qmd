@@ -3,19 +3,24 @@ title: "Research"
 lightbox: true
 ---
 
+I am currently writing my MA thesis on partisan-ideological sorting, partisan affect, and candidate affect, and split ticket voting.
 
-During the Specialization phase of my research master program, I explored affective polarization, civic duty, and voter turnout (see @fig-theory). Previous research has looked at affective polarization and voter turnout, and civic duty and voter turnout. My research looked at both affective polarization and civic duty as two predictors of turnout.
+------------------------------------------------------------------------
+
+During the Specialization phase of my research master program (fall 2025), I explored affective polarization, civic duty, and voter turnout (see @fig-theory). Previous research has looked at affective polarization and voter turnout, and civic duty and voter turnout. My research used the 2020 ANES Time Series Study to look at both affective polarization and civic duty as two predictors of turnout.
+
+@fig-pred-probs shows that people with a moderate or strong sense of duty had a high probability of turnout at all degrees of affective polarization. Among people with lower degrees of affective polarization, turnout was much more likely as level of duty increased.
+
+The influence of civic duty on turnout varies at different degrees of affective polarization. The results highlight that affective polarization and a (strong) sense of civic duty are associated with greater likelihood of voting, but a strong sense of duty alone is also associated with a greater probability of voting even when affective polarization is absent or minimal.
 
 ![Theoretical Diagram](AP-Duty-Turnout_fig-theory.png){#fig-theory fig-align="center" width="60%"}
 
-![Turnout Probabilities by Degree of Affective Polarization and Level of Civic Duty](){#fig-pred-probs fig-align="center"}
+![Turnout Probabilities by Degree of Affective Polarization and Level of Civic Duty](plot_AP_duty_APduty.png){#fig-pred-probs fig-align="center"}
 
-
-::: {.content-hidden}
-
+::: content-hidden
 I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. Studies of multiparty systems found an association, but studies in the U.S. have not. Separate research has shown that a sense of civic duty can increase someone's chances of voting. I theorize that civic duty may help explain an association between affective polarization and turnout by acting as a moderator. This is represented by the dashed line in @fig-theory; the solid lines indicate what existing literature has studied.
 
-![Theoretical Diagram](AP-Duty-Turnout_fig-theory.png){#fig-theory fig-align="center" width="60%"}
+![Theoretical Diagram](AP-Duty-Turnout_fig-theory.png){fig-align="center" width="60%"}
 
 My next research project is my MA thesis, which will look at affective polarization, civic duty, (preference for) straight/split ticket voting, and vote choice.
 
@@ -32,5 +37,4 @@ My research interests include:
 -   California state and local politics
 
 ![Climate Policies by State. Data from the State Climate Policy Dashboard (climatepolicydashboard.org).](state-climate-policies.png){#fig-state-climate-policies}
-
 :::
