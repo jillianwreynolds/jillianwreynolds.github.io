@@ -74,7 +74,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. Studies of multiparty systems found an association, but studies in the U.S. have not. Separate research has shown that a sense of civic duty can increase someone’s chances of voting. I theorize that civic duty may help explain an association between affective polarization and turnout by acting as a moderator. This is represented by the dashed line in Figure 1; the solid lines indicate what existing literature has studied.\n\n\n\nFigure 1: Theoretical Diagram\n\n\n\n\n\n\nMy next research project is my MA thesis, which will look at affective polarization, civic duty, (preference for) straight/split ticket voting, and vote choice.\nMy research interests include:\n\nAffective polarization, also ideological and geographic polarization\nPublic opinion\nPolitical behavior\nState comparative politics\nCalifornia state and local politics\n\n\n\n\nFigure 2: Climate Policies by State. Data from the State Climate Policy Dashboard (climatepolicydashboard.org)."
+    "text": "I am currently writing my MA thesis on partisan-ideological sorting, partisan affect, and candidate affect, and split ticket voting.\n\nDuring the Specialization phase of my research master program (fall 2025), I explored affective polarization, civic duty, and voter turnout (see Figure 1). Previous research has looked at affective polarization and voter turnout, and civic duty and voter turnout. My research used the 2020 ANES Time Series Study to look at both affective polarization and civic duty as two predictors of turnout.\nI found that the influence of civic duty on turnout varies at different degrees of affective polarization. Figure 2 shows that affective polarization and a (strong) sense of civic duty were associated with greater probabilities of voting, but a strong sense of duty alone was also associated with a greater probability of voting, even when affective polarization was absent or minimal.\n\n\n\nFigure 1: Theoretical Diagram\n\n\n\n\n\n\n\n\n\nFigure 2: Turnout Probabilities by Degree of Affective Polarization and Level of Civic Duty"
   },
   {
     "objectID": "index.html",
@@ -88,7 +88,7 @@
     "href": "index.html#statistical-programming",
     "title": "Jillian Reynolds",
     "section": "Statistical Programming",
-    "text": "Statistical Programming\n\nR\n\nCertificate in R for Data Analytics, UC San Diego Division of Extended Studies, La Jolla, CA — June 2024\n\nQuarto\nTidyverse\nStatistical data analysis (with complex survey data)\nData visualization with ggplot2\n\nLearning/Practicing\n\nSurvey data analysis methods\nDevelopment of jwR package as a collection of personal functions for private use\nLaTeX (and BibTeX)\nreveal.js html presentations\nGraphviz diagrams with {dot}"
+    "text": "Statistical Programming\n\nR\n\nCertificate in R for Data Analytics, UC San Diego Division of Extended Studies, La Jolla, CA — June 2024\n\nQuarto\nTidyverse, including data visualization with ggplot2\nStatistical data analysis (with complex survey data)\n\nLearning/Practicing\n\nSurvey data analysis\nDevelopment of personal-use R package to collect functions for private use\nLaTeX (and BibTeX)\nGraphviz diagrams with {dot}\nreveal.js html presentations"
   },
   {
     "objectID": "index.html#languages",
