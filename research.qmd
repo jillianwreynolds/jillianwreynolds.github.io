@@ -13,7 +13,7 @@ I found that the influence of civic duty on turnout varies at different degrees 
 
 ![Theoretical Diagram](AP-Duty-Turnout_fig-theory.png){#fig-theory fig-align="center" width="60%"}
 
-![Turnout Probabilities by Degree of Affective Polarization and Level of Civic Duty](plot_AP_duty_APduty.png){#fig-pred-probs fig-align="center"}
+![Turnout Probabilities by Degree of Affective Polarization and Level of Civic Duty](plot_AP_duty_APduty.png){#fig-pred-probs fig-align="center" width="80%"}
 
 ::: content-hidden
 I am currently researching affective polarization, civic duty, and voter turnout. The literature is inconclusive regarding a (clear) relationship between affective polarization and turnout. Studies of multiparty systems found an association, but studies in the U.S. have not. Separate research has shown that a sense of civic duty can increase someone's chances of voting. I theorize that civic duty may help explain an association between affective polarization and turnout by acting as a moderator. This is represented by the dashed line in @fig-theory; the solid lines indicate what existing literature has studied.
