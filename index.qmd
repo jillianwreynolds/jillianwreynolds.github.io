@@ -77,7 +77,8 @@ MA in Modern History and International Relations \| Sep. 2024 - present
 
 BA in Political Science/International Relations \| Sep. 2019 - June 2023
 
-Provost Honors: Spring 2020, Fall 2021, Winter 2021, Spring 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
+-   Minors in History and Global Health
+-   Provost Honors: Spring 2020, Fall 2021, Winter 2021, Spring 2021, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023
 
 # Experiences
 
@@ -114,17 +115,16 @@ The summer before my senior year of high school, I went on a trip with two other
 -   R
     -   Certificate in R for Data Analytics, UC San Diego Division of Extended Studies, La Jolla, CA — June 2024
 -   Quarto
--   Tidyverse
+-   Tidyverse, including data visualization with ggplot2
 -   Statistical data analysis (with complex survey data)
--   Data visualization with ggplot2
 
 **Learning/Practicing**
 
--   Survey data analysis methods
--   Development of **jwR** package as a collection of personal functions for private use
+-   Survey data analysis
+-   Development of personal-use R package to collect functions for private use
 -   LaTeX (and BibTeX)
--   reveal.js html presentations
 -   Graphviz diagrams with `{dot}`
+-   reveal.js html presentations
 
 ## Languages
 
