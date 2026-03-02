@@ -17,8 +17,8 @@ website:
       #   href: experiences.qmd
       # - text: "Skills"
       #   href: skills.qmd
-      - text: "Interests"
-        href: interests.qmd
+      # - text: "Interests"
+      #   href: interests.qmd
       # - text: "Blog"
       #   href: blog.qmd
     search: false
