@@ -131,7 +131,9 @@ Graph visualization (Graphviz with `{dot}`)
 
 **Learning/Practicing**
 
-Python and SQL
+Python
+
+SQL
 
 ::: content-hidden
 -   Development of personal-use R package to collect functions for private use
