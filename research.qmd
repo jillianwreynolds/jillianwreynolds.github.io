@@ -3,7 +3,7 @@ title: "Research"
 lightbox: true
 ---
 
-I am currently writing my MA thesis on partisan-ideological sorting [see @Davis2016; @Mason2015], partisan affect, and candidate affect, and split ticket voting in the 2016, 2020, and 2024 elections (see @fig-thesis-theory).
+I am currently writing my MA thesis on identity, affect, and split ticket voting in the 2016, 2020, and 2024 elections (see @fig-thesis-theory). I build on Lilliana Mason's -@Mason2015 concept of partisan-ideological sorting as well as Davis and Mason's -@Davis2016 research. My research is based on the expectation that different patterns in levels of sorting, strength of affect toward the parties, and strength toward the parties' respective candidates should lead to different probabilities of voting a split ticket.
 
 ![](fig-thesis-theory.png){#fig-thesis-theory fig-align="center" width="45%"}
 
