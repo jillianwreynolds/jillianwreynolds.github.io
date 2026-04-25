@@ -145,7 +145,7 @@ Python and SQL
 
 :::
 
-::: content-hidden
+::: {.content-hidden}
 -   Development of personal-use R package to collect functions for private use
 -   LaTeX
 -   reveal.js html presentations
